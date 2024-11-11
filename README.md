@@ -1,8 +1,8 @@
 # Text Utility Application
 A simple and powerful application that allows users to input text and perform various text operations such as capitalization, decapitalization, removing extra spaces, word count, and copying sentences.
 
-![Project Screenshot](https://drive.google.com/file/d/10-Ve4ucPm8CqNUnGuWdVDbSm9L7jRVxL/view?usp=drive_link)
-https://drive.google.com/file/d/10-Ve4ucPm8CqNUnGuWdVDbSm9L7jRVxL/view?usp=drive_link
+![Alt Text](https://drive.google.com/file/d/10-Ve4ucPm8CqNUnGuWdVDbSm9L7jRVxL/view?usp=sharing)
+
 
 Features
 Capitalize Text: Convert the entire input text to uppercase.
